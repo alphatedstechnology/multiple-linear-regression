@@ -1,0 +1,2 @@
+# multiple-linear-regression
+Multiple Linear Regression is the extension of Linear Regression in which we have number of dependent variables. To be more clear, if you want to predict the marks of student, discipline only may not be sufficient. There may be may be many factors affecting the marks of any student. It may be Internal Marks, Assignments Completed, Attendance and more. Multiple Linear Regression is used when we have multiple values affecting the result. 
